@@ -3,10 +3,6 @@
 """
 untitled.py
 
-Created by Ben BarOr on 2008-08-23.
-Copyright (c) 2008 __MyCompanyName__. All rights reserved.
-"""
-
 import sys
 import os
 from scipy import *

@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-untitled.py
-
-Created by Ben BarOr on 2008-08-24.
-Copyright (c) 2008 __MyCompanyName__. All rights reserved.
-"""
 
 import sys
 import os
