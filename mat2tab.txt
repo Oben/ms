@@ -1,0 +1,8 @@
+function Table=mat2tab(matrix)
+[roes coulombs]=size(matrix);
+sperate=ones(roes,1);
+Table=[matrix(:,1) sperate];
+for coulomb_index=2:columbus-1
+	Table=[Table matrix(:,1) sperate]
+end
+Table=[Table matrix(:,columbus)];
